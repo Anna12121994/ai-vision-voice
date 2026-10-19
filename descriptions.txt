@@ -1,0 +1,18 @@
+Image: input/test2.png
+Description: smart tv led 43 ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+-----------------------------
+Image: input/test.png
+Description: the best smart tvs for 2020
+-----------------------------
+Image: input/test2.png
+Description: smart tv led 43 ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+-----------------------------
+Image: input/test4.png
+Description: a man sitting on a bench talking on a cell
+-----------------------------
+Image: input/test4.png
+Description: a man sitting on a bench talking on a cell
+-----------------------------
+Image: input/test3.png
+Description: people standing in front of a digital background
+-----------------------------
